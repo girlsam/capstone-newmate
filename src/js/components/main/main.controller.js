@@ -7,6 +7,6 @@
   mainController.$inject = ['$scope']
 
   function mainController ($scope) {
-    this.greeting = 'Hello World!'
+    this.greeting = 'Newmate -- Get a roommate'
   }
 })()
