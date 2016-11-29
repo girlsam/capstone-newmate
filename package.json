@@ -1,0 +1,18 @@
+{
+  "name": "newmate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.2.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-sass": "^2.3.2",
+    "run-sequence": "^1.2.2"
+  }
+}
